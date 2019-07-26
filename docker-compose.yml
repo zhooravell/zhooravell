@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+  front:
+    build: .
+    ports:
+      - 4200:4200
+    volumes:
+      - .:/home/node/app:rw
+    command:
+      - /bin/sh
+      - -c
+      - |
+        cd /home/node/app && npm install && npm start
