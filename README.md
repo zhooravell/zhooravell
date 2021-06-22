@@ -9,4 +9,4 @@ Hi. I’m Roman.
 [fb-image]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 
 [telegram-link]: https://t.me/zhooravell
-[telegram-image]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+[telegram-image]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
