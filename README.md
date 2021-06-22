@@ -9,7 +9,7 @@ Hi. I’m Roman Zhuravel.
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhooravell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?zhooravell=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhooravell&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 [linkedin-link]: https://www.linkedin.com/in/roman-zhuravel-80202a76/
