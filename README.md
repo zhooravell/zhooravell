@@ -1,9 +1,9 @@
 Hi. I’m Roman Zhuravel.
+<img align="right" alt="GIF" src="https://github.com/zhooravell/zhooravell/blob/main/img/development.gif?raw=true" width="400" height="400" />
 
 [![linkedin][linkedin-image]][linkedin-link] [![facebook][fb-image]][fb-link] [![telegram][telegram-image]][telegram-link]
 
 ### Glad to see you here!
-
 I am a backend software engineer.
 > Talk is cheap. Show me the code ~ Linus Torvalds
 
