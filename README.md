@@ -4,7 +4,8 @@ Hi. I’m Roman Zhuravel.
 
 ### Glad to see you here!
 
-<img align="right" alt="GIF" src="https://github.com/zhooravell/zhooravell/blob/main/img/development.gif?raw=true" width="400" height="400" />
+I am a backend software engineer.
+> Talk is cheap. Show me the code ~ Linus Torvalds
 
 ### My GitHub Stats:
 
