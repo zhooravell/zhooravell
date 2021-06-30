@@ -1,0 +1,15 @@
+<mat-toolbar color="primary" class="mat-elevation-z4 top-toolbar">
+  <span class="spacer"></span>
+  <button mat-button [matMenuTriggerFor]="menu">{{lang}}</button>
+  <mat-menu #menu="matMenu">
+    <a href="" mat-menu-item>EN</a>
+    <a href="" mat-menu-item>UA</a>
+    <a href="" mat-menu-item>RU</a>
+  </mat-menu>
+  <a href="https://github.com/zhooravell/zhooravell/tree/develop" mat-icon-button download>
+    <mat-icon>picture_as_pdf</mat-icon>
+  </a>
+  <a href="https://github.com/zhooravell/zhooravell/tree/develop" mat-icon-button target="_blank">
+    <mat-icon svgIcon="github-icon" aria-hidden="false"></mat-icon>
+  </a>
+</mat-toolbar>
